@@ -24,7 +24,7 @@
 <div class="container">
     <h1>SpringMVC 添加博客</h1>
     <hr/>
-    <form:form action="../addP" method="get" commandName="blog" role="form">
+    <form:form action="addP" method="post" commandName="blog" role="form">
         <div class="form-group">
             <label for="title">Title:</label>
             <input type="text" class="form-control" id="title" name="title" placeholder="Enter Title:"/>
