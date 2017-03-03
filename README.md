@@ -1,2 +1,1 @@
-# SpringMVC-
-# SpringMVC-
+这是一个SpringMVC博客管理系统，使用SpringMVC框架实现，数据库交互用Hibernate实现，
